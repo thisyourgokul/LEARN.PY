@@ -13,7 +13,7 @@ Original file is located at
 name=input('Enter your name:')
 print('Hello'),name
 
-"""2.Write a program which prompts the user for a Celsius temperature, convert the temperature to Fahrenheit, and print out the converted temperature."""
+"""2.Write a program which prompts the user for a Celsius temperature, convert the temperature to Fahrenheit, and print out the converted temperature.""" 
 
 #please provide your answer here below this line
 celsius=float(input('Enter degrees in Celsius:'))
