@@ -18,7 +18,7 @@ print('Hello'),name
 #please provide your answer here below this line
 celsius=float(input('Enter degrees in Celsius:'))
 fahrenheit=float(celsius*9/5+32)
-print celsius, ('degrees Celsius equals'), fahrenheit, ('degrees Fahrenheit')
+print(celsius, ('degrees Celsius equals'), fahrenheit, ('degrees Fahrenheit'))
 
 """3.Write a Python program to convert degree to radian."""
 
